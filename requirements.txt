@@ -1,0 +1,6 @@
+streamlit>=1.36
+pandas>=2.2
+openpyxl>=3.1
+numpy>=1.26
+# Для старых .xls (если реально нужно):
+# xlrd==1.2.0
